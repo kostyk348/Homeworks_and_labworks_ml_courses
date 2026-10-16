@@ -1,5 +1,9 @@
 # Обучающие ноутбуки по Machine Learning
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/Homeworks_and_labworks_ml_courses?sort=semver&color=blue)](https://github.com/kostyk348/Homeworks_and_labworks_ml_courses/releases)
+[![License](https://img.shields.io/badge/license-CC0-1.0-green)](https://github.com/kostyk348/Homeworks_and_labworks_ml_courses/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/Homeworks_and_labworks_ml_courses?branch=master)](https://github.com/kostyk348/Homeworks_and_labworks_ml_courses/commits/master)
+
 Привет! В этом репозитории ты найдешь материалы для изучения основ по Машинному обучению.
 
 ## Оглавление
